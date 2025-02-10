@@ -95,4 +95,5 @@ ehthumbs.db
 *.sln
 *.sw?
 
-# End of standard components
+# Additional
+*.txt
